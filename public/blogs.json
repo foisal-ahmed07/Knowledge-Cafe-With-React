@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 101,
+    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
+    "Author": "Sarah Langston",
+    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
+    "Title": "Exploring the Future of AI",
+    "PostedDate": "2024-01-15",
+    "ReadingTime": "8 ",
+    "Hashtags": ["#AI", "#Technology", "#Future"]
+  },
+  {
+    "Id": 102,
+    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
+    "Author": "Michael Ortega",
+    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
+    "Title": "The Evolution of Digital Art",
+    "PostedDate": "2024-02-20",
+    "ReadingTime": "6 ",
+    "Hashtags": ["#Art", "#Digital", "#Creativity"]
+  },
+  {
+    "Id": 103,
+    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
+    "Author": "Emily Rogers",
+    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
+    "Title": "Mastering JavaScript in 2024",
+    "PostedDate": "2024-03-05",
+    "ReadingTime": "10 ",
+    "Hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+  },
+  {
+    "Id": 104,
+    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
+    "Author": "David Kim",
+    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
+    "Title": "A Guide to Sustainable Living",
+    "PostedDate": "2024-04-10",
+    "ReadingTime": "7 ",
+    "Hashtags": ["#Sustainability", "#Environment", "#EcoFriendly"]
+  },
+  {
+    "Id": 105,
+    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
+    "Author": "Jessica Nguyen",
+    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
+    "Title": "The Rise of Quantum Computing",
+    "PostedDate": "2024-05-22",
+    "ReadingTime": "9 ",
+    "Hashtags": ["#QuantumComputing", "#Innovation", "#TechTrends"]
+  }
+]
