@@ -1,52 +1,42 @@
 [
   {
-    "Id": 101,
-    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
-    "Author": "Sarah Langston",
-    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
-    "Title": "Exploring the Future of AI",
-    "PostedDate": "2024-01-15",
-    "ReadingTime": "8 ",
-    "Hashtags": ["#AI", "#Technology", "#Future"]
+    "id": 1,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "Top 10 ES6 Features You Must Know",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author": "Hamza Sohail",
+    "posted_date": "September 15, 2023",
+    "reading_time": 5,
+    "hashtags": ["#beginners",  "#es6"]
   },
   {
-    "Id": 102,
-    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
-    "Author": "Michael Ortega",
-    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
-    "Title": "The Evolution of Digital Art",
-    "PostedDate": "2024-02-20",
-    "ReadingTime": "6 ",
-    "Hashtags": ["#Art", "#Digital", "#Creativity"]
+    "id": 2,
+    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+    "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+    "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+    "author": "Sajal Ali",
+    "posted_date": "August 28, 2023",
+    "reading_time": 4,
+    "hashtags": ["#javascript", "#coding", "#dev"]
   },
   {
-    "Id": 103,
-    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
-    "Author": "Emily Rogers",
-    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
-    "Title": "Mastering JavaScript in 2024",
-    "PostedDate": "2024-03-05",
-    "ReadingTime": "10 ",
-    "Hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    "id": 3,
+    "cover": "https://i.ibb.co/RzGzcPg/3.png",
+    "title": "Component lifecycle in React — Class component vs Functional component",
+    "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+    "author": "Feroze Khan",
+    "posted_date": "July 10, 2023",
+    "reading_time": 10,
+    "hashtags": ["#mid_level",  "#react"]
   },
   {
-    "Id": 104,
-    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
-    "Author": "David Kim",
-    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
-    "Title": "A Guide to Sustainable Living",
-    "PostedDate": "2024-04-10",
-    "ReadingTime": "7 ",
-    "Hashtags": ["#Sustainability", "#Environment", "#EcoFriendly"]
-  },
-  {
-    "Id": 105,
-    "CoverImage": "https://i.ibb.co.com/VWNqT6n/blog.jpg",
-    "Author": "Jessica Nguyen",
-    "AuthorImage": "https://i.ibb.co.com/0BTRvtH/handsome-bearded-guy-posing-against-white-wall.jpg",
-    "Title": "The Rise of Quantum Computing",
-    "PostedDate": "2024-05-22",
-    "ReadingTime": "9 ",
-    "Hashtags": ["#QuantumComputing", "#Innovation", "#TechTrends"]
+    "id": 4,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+    "title": "Free images and resources collection for website",
+    "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+    "author": "Anmol Baloch",
+    "posted_date": "June 5, 2023",
+    "reading_time": 9,
+    "hashtags": ["#development", "#resources"]
   }
 ]
